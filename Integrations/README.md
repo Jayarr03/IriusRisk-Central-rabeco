@@ -14,3 +14,4 @@ Here you will find anything extending IriusRisk functionality via its APIs. This
 * Output Project Threats: Outputs threats from a project 
 * BU - Transfers: Transfers business units from one tenant to another using the API.
 * All Projects Threats Report: Outputs threats from all projects where countermeasures are not in a recommended state into an output json file for import into a secondary tool. 
+* Library Creator: Creates a library through the API from a xlxs spreadsheet containing relevant risk pattern information. 
